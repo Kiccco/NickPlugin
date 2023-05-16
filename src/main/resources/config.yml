@@ -1,0 +1,7 @@
+#You can choose between LOBBY or GAME
+serverType: LOBBY
+mysql:
+  hostname: localhost:3306
+  database: test
+  user: root
+  password: password

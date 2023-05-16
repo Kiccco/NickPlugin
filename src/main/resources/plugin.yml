@@ -1,0 +1,13 @@
+name: NickPlugin
+main: me.kiccco.plugin.NickPlugin
+author: Kiccco
+version: 1.0 BETA
+softdepend:
+  - LuckPerms
+  - TAB
+commands:
+  nick:
+    description: nick
+  nickskin:
+    description: nickskin
+    aliases: ns
